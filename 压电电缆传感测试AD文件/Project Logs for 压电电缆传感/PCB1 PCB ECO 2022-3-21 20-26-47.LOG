@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=E3 Old Footprint=CM B(4*5.4) New Footprint=CM A(3*5.4)
+Change Component Footprint: Designator=E4 Old Footprint=CM B(4*5.4) New Footprint=CM A(3*5.4)
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Room: Name=Sheet1

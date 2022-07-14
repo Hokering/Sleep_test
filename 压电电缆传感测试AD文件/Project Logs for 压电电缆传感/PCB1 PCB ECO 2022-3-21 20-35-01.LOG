@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetD_OUT1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetA_OUT1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetRP1_2 Pin=U1-3
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Removed Pin From Net: NetName=+2 Pin=U1-5
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-6
+Removed Pin From Net: NetName=NetA_OUT1_1 Pin=U1-7
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-8
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-9
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=NetR8_1 Pin=U1-12
+Removed Pin From Net: NetName=+2 Pin=U1-13
+Removed Pin From Net: NetName=+2 Pin=U1-14
+Added Component: Designator=U1(SOP14_M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=+2 Pin=U1-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=NetA_OUT1_1 Pin=U1-7
+Added Pin To Net: NetName=+2 Pin=U1-8
+Added Pin To Net: NetName=+2 Pin=U1-9
+Added Pin To Net: NetName=NetR8_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetRP1_2 Pin=U1-12
+Added Pin To Net: NetName=NetA_OUT1_1 Pin=U1-13
+Added Pin To Net: NetName=NetD_OUT1_1 Pin=U1-14
+Added Room: Name=Sheet1

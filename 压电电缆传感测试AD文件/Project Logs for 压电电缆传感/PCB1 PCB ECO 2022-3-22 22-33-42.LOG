@@ -1,0 +1,58 @@
+Added Component: Designator=C51(CD A(3216))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CD A(3216))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C54(C 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=LED51(LED 0805G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U51(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=C51-1
+Added Pin To Net: NetName=VCC Pin=C52-2
+Added Pin To Net: NetName=+3.3 Pin=C53-1
+Added Pin To Net: NetName=+3.3 Pin=C54-2
+Added Pin To Net: NetName=+3.3 Pin=R51-1
+Added Pin To Net: NetName=VCC Pin=U51-1
+Added Pin To Net: NetName=VCC Pin=U51-3
+Added Pin To Net: NetName=+3.3 Pin=U51-5
+Added Pin To Net: NetName=GNDBAT Pin=C51-2
+Added Pin To Net: NetName=GNDBAT Pin=C52-1
+Added Pin To Net: NetName=GNDBAT Pin=C53-2
+Added Pin To Net: NetName=GNDBAT Pin=C54-1
+Added Pin To Net: NetName=GNDBAT Pin=LED51-2
+Added Pin To Net: NetName=GNDBAT Pin=U51-2
+Added Net: Name=GNDBAT
+Added Pin To Net: NetName=NetLED51_1 Pin=LED51-1
+Added Pin To Net: NetName=NetLED51_1 Pin=R51-2
+Added Net: Name=NetLED51_1
+Added Member To Class: ClassName=Sheet1 Member=Component C51 10uF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C52 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C53 10uF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C54 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component LED51 红色
+Added Member To Class: ClassName=Sheet1 Member=Component R51 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component U51 RT9013-33
+Added Room: Name=Sheet1
